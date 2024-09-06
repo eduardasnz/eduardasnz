@@ -1,7 +1,4 @@
-- Hello, i'm Maria Eduarda
-- 💻 Ciencia da Computação
-- JAVA | JS | HTML | CSS
-<!---
-eduardasnz/eduardasnz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">
+    <a href="https://www.instagram.com/eduardasnz/">Maria Eduarda Santana</a>
+    <h2 align='center' color="(127,255,212)">JAVA | JS | HTML | CSS</h2>
+<p>Estudante de Ciência da Computação</p>
