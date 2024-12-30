@@ -1,14 +1,21 @@
-# Hello! 👋
+# Hello, World! 🌍👋
 
-I am a student of Systems Analysis and Development.
+I'm a passionate **Systems Analysis and Development** student, diving deep into the world of code and creativity! 💻✨
 
-## Languages
-- JavaScript (JS) 🌐
-- Python 🐍
-- C# 💼
+## 🚀 Tech Stack
+- **JavaScript** (JS) 🌐 - Making the web come alive!
+- **Python** 🐍 - Automating the mundane and exploring data!
+- **C#** 💼 - Building robust applications with style!
 
-## Contact
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [GitHub](https://github.com/your-username)
+## 🌟 About Me
+- 🎓 Lifelong learner with a love for technology.
+- 💡 Always curious and ready to tackle new challenges.
+- 🌱 Growing my skills one line of code at a time!
 
-Thanks for visiting my profile! 🚀
+## 📫 Let's Connect!
+I'm always open to new ideas and collaborations. Feel free to reach out!
+
+- [LinkedIn](https://https://www.linkedin.com/in/maria-eduarda-santana-de-souza)
+- [GitHub](https://github.com/eduardasnz)
+
+Thanks for stopping by! Let's create something amazing together! 🚀✨
