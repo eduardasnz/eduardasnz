@@ -3,7 +3,7 @@
 I'm a passionate **Systems Analysis and Development** student, diving deep into the world of code and creativity! 💻✨
 
 ## 🚀 Tech Stack
-- **JavaScript** (JS) 🌐 - Making the web come alive!
+- **TypeScript** (TS) 🌐 - Making the web come alive!
 - **Python** 🐍 - Automating the mundane and exploring data!
 - **C#** 💼 - Building robust applications with style!
 
