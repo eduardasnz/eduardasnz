@@ -1,21 +1,27 @@
-# Hello, World! 🌍👋
+# 👋 Olá, eu sou a Maria Eduarda  
 
-I'm a passionate **Systems Analysis and Development** student, diving deep into the world of code and creativity! 💻✨
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**, em Salvador - BA.  
+💻 Tenho base em **Node.js**, **C#** e **Java**.  
 
-## 🚀 Tech Stack
-- **TypeScript** (TS) 🌐 - Making the web come alive!
-- **Python** 🐍 - Automating the mundane and exploring data!
-- **C#** 💼 - Building robust applications with style!
+---
 
-## 🌟 About Me
-- 🎓 Lifelong learner with a love for technology.
-- 💡 Always curious and ready to tackle new challenges.
-- 🌱 Growing my skills one line of code at a time!
+## 🚀 Tecnologias que estudo/uso:
+- Node.js  
+- C#  
+- Java  
+- Spring Boot
+- Typescript
+- NestJs
+- Fastify
 
-## 📫 Let's Connect!
-I'm always open to new ideas and collaborations. Feel free to reach out!
+---
 
-- [LinkedIn](https://https://www.linkedin.com/in/maria-eduarda-santana-de-souza)
-- [GitHub](https://github.com/eduardasnz)
+## 📌 Sobre mim
+Sou apaixonada por tecnologia e estou sempre em busca de aprender e evoluir como desenvolvedora.  
+Atualmente, estou focada em consolidar minha base em backend e explorar diferentes linguagens e frameworks.  
 
-Thanks for stopping by! Let's create something amazing together! 🚀✨
+---
+
+## 🌎 Onde me encontrar:
+- 💼 [LinkedIn](#) *https://www.linkedin.com/in/eduardasnz/*
+- 📧 **meduardasan18@hotmail.com**
