@@ -23,5 +23,5 @@ Atualmente, estou focada em consolidar minha base em backend e explorar diferent
 ---
 
 ## 🌎 Onde me encontrar:
-- 💼 [LinkedIn](#) *https://www.linkedin.com/in/eduardasnz/*
+- 💼 [LinkedIn](https://www.linkedin.com/in/eduardasnz/) 
 - 📧 **meduardasan18@hotmail.com**
