@@ -11,7 +11,7 @@
 ###
 
 <p align="left">
-✨ Creating code (and sometimes bugs) since 2025<br>
+✨ Creating code (and sometimes bugs) since 2023<br>
 📚 I'm currently learning advanced Full-Stack development and improving my skills in Node.js, React, and databases.<br>
 🎯 Goals: Become a skilled Full-Stack Developer and contribute to meaningful projects.<br>
 🎲 Fun fact: I love solving coding challenges and practicing judo!
