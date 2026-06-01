@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Maria Eduarda and I'm a BackEnd Developer, from Bahia - Brazil</p>
+<p align="left">My name is Maria Eduarda and I'm a Full-Stack Developer, from Bahia - Brazil</p>
 
 ###
 
